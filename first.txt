@@ -1,3 +1,5 @@
 Gitの練習をしています。
 aaaaaaaaaaaaaaaaaaa
 aaaaaaaaa
+/git add 
+git commit
