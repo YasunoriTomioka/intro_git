@@ -4,3 +4,4 @@ aaaaaaaaa
 /git add 
 git commit
 git rv
+Git status
