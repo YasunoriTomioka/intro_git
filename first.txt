@@ -3,3 +3,4 @@ aaaaaaaaaaaaaaaaaaa
 aaaaaaaaa
 /git add 
 git commit
+git rv
